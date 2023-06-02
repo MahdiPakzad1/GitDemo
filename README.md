@@ -1,5 +1,5 @@
 # GitDemo
-This is a test to learn GitHub Repo 
+This is a test to learn GitHub Repo
 
 ## Git Repo Sample App/Template
 
